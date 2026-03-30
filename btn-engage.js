@@ -65,6 +65,16 @@
       var url = new URL(href, location.origin);
     } catch (_) { return; }
 
+    // Screener conversion -- track clicks to 1328f.com/org as high-value conversions
+    if (/1328f\.(com|org)/i.test(href)) {
+      gtag('event', 'screener_click', {
+        event_category: 'conversion',
+        event_label: href,
+        source_page: path,
+        source_domain: host
+      });
+    }
+
     if (url.hostname === host) {
       // Internal nav within same site
       gtag('event', 'internal_click', {
