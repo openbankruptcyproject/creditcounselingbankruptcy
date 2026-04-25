@@ -224,27 +224,6 @@ footer .links a{margin:0 0.75rem}
   ]
 }
 </script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "NonprofitOrganization",
-  "name": "Open Bankruptcy Project",
-  "alternateName": "OBP",
-  "url": "https://openbankruptcyproject.org",
-  "email": "info@openbankruptcyproject.org",
-  "taxID": "41-5159631",
-  "nonprofitStatus": "Nonprofit501c3",
-  "description": "The Open Bankruptcy Project is a 501(c)(3) nonprofit providing free tools, research, and consumer guides to help people navigate the federal bankruptcy system. We also conduct and publish empirical research on how the system actually works for consumers and share findings with rule-making bodies, regulators, and the public.",
-  "address": {
-    "@type": "PostalAddress",
-    "streetAddress": "1000 W 100th St",
-    "addressLocality": "Kansas City",
-    "addressRegion": "MO",
-    "postalCode": "64114",
-    "addressCountry": "US"
-  }
-}
-</script>
 </head>
 <body>
 <!-- aggressive-interlink:lang-en -->
@@ -497,7 +476,7 @@ footer .links a{margin:0 0.75rem}
 <p style="color:#7d8590;font-size:0.8rem;margin:0;letter-spacing:0.02em"><strong style="color:#e6edf3">$16,500+ spent</strong> · <strong style="color:#e6edf3">$0 donated</strong> · <strong style="color:#e6edf3">$0 hosting</strong> · 105 domains · 2,000+ pages · All free, forever.</p>
 </div>
 <div style="background:var(--surface);border:1px solid #238636;border-radius:6px;padding:1rem 1.5rem;text-align:center;max-width:600px;margin:0 auto 1rem">
-<p style="color:var(--text);margin:0 0 0.5rem;font-size:0.95rem">This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631), funding <a href="https://1328f.com/glossary.html#pacer" title="PACER">PACER</a> access fees and bankruptcy court transparency research.</p>
+<p style="color:var(--text);margin:0 0 0.5rem;font-size:0.95rem">This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit, funding <a href="https://1328f.com/glossary.html#pacer" title="PACER">PACER</a> access fees and bankruptcy court transparency research.</p>
 <a href="https://github.com/sponsors/openbankruptcyproject" onmouseout="this.style.background='#bf3989'" onmouseover="this.style.background='#9e2c6f'" style="display:inline-block;background:#bf3989;color:#fff;padding:0.6rem 1.8rem;border-radius:6px;font-weight:600;font-size:0.95rem;text-decoration:none;transition:background 0.2s">♥ Sponsor</a>
 </div>
 <!-- STATE GUIDES CROSS-LINK (injected by inject_state_links.py 2026-04-01) -->
@@ -594,7 +573,7 @@ footer .links a{margin:0 0.75rem}
 <p style="color:#7d8590;font-size:0.75rem">Our research was cited by the federal judiciary as <a href="https://www.uscourts.gov/rules-policies/records-and-archives-rules-committees/rules-suggestions" rel="noopener" style="color:#58a6ff" target="_blank">Suggestion 26-BK-3</a></p>
 </div>
 <p style="margin-top:0.75rem;font-size:0.8rem"><a href="https://openbankruptcyproject.org/rule-9037/" rel="noopener" style="color:#58a6ff;text-decoration:none">Rule 9037 Compliance Guide</a> - Free open-source tool to detect unredacted personal information in court filings</p>
-<div style="margin-top:12px;display:flex;align-items:center;justify-content:center;gap:8px;flex-wrap:wrap"><a href="https://www.uscourts.gov/rules-policies/records-and-archives-rules-committees/rules-suggestions" onmouseout="this.style.borderColor='#30363d'" onmouseover="this.style.borderColor='#58a6ff'" rel="noopener" style="display:inline-flex;align-items:center;gap:6px;background:#1c2128;border:1px solid #30363d;color:#7d8590;padding:4px 12px;border-radius:20px;font-size:0.75rem;text-decoration:none;transition:border-color 0.2s" target="_blank"><svg fill="#3fb950" height="14" viewbox="0 0 16 16" width="14"><path d="M8 0a8 8 0 100 16A8 8 0 008 0zm3.78 5.97l-4.5 4.5a.75.75 0 01-1.06 0l-2-2a.75.75 0 011.06-1.06l1.47 1.47 3.97-3.97a.75.75 0 011.06 1.06z"></path></svg> Cited by the Federal Rules Committee (26-BK-3 and 26-BK-5)</a></div>
+<div style="margin-top:12px;display:flex;align-items:center;justify-content:center;gap:8px;flex-wrap:wrap"><a href="https://www.uscourts.gov/rules-policies/records-and-archives-rules-committees/rules-suggestions" onmouseout="this.style.borderColor='#30363d'" onmouseover="this.style.borderColor='#58a6ff'" rel="noopener" style="display:inline-flex;align-items:center;gap:6px;background:#1c2128;border:1px solid #30363d;color:#7d8590;padding:4px 12px;border-radius:20px;font-size:0.75rem;text-decoration:none;transition:border-color 0.2s" target="_blank"><svg fill="#3fb950" height="14" viewbox="0 0 16 16" width="14"><path d="M8 0a8 8 0 100 16A8 8 0 008 0zm3.78 5.97l-4.5 4.5a.75.75 0 01-1.06 0l-2-2a.75.75 0 011.06-1.06l1.47 1.47 3.97-3.97a.75.75 0 011.06 1.06z"></path></svg> Cited by the Federal Rules Committee (26-BK-3)</a></div>
 </footer>
 <!-- BTN:FOOTER:END -->
 <div style="background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1.5rem;text-align:center;max-width:900px;margin:2rem auto 0">

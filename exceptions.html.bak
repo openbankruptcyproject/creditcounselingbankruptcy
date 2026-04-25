@@ -233,27 +233,6 @@ footer .links a{margin:0 0.75rem}
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "What qualifies as \"exigent circumstances\"?", "acceptedAnswer": {"@type": "Answer", "text": "Courts have found exigent circumstances in situations such as: An imminent foreclosure sale scheduled within days A wage garnishment that will cause immediate, irreparable harm A pending repossession of a vehicle needed for work An eviction that would leave the debtor homeless A utility shutoff..."}}, {"@type": "Question", "name": "How to request an exigent circumstances waiver?", "acceptedAnswer": {"@type": "Answer", "text": "To invoke this exception, you must file a certification with your bankruptcy petition. The certification should: Describe the specific circumstances that required immediate filing Explain why you could not complete credit counseling before filing State that you requested counseling from an approved..."}}, {"@type": "Question", "name": "What These Exceptions Do NOT Cover?", "acceptedAnswer": {"@type": "Answer", "text": "Courts have consistently rejected the following as reasons to waive the credit counseling requirement: Lack of time: \"I was too busy\" or \"my attorney filed before I could complete it\" are not valid excuses. Online courses are available 24/7 and take 60-90 minutes."}}]}
 </script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "NonprofitOrganization",
-  "name": "Open Bankruptcy Project",
-  "alternateName": "OBP",
-  "url": "https://openbankruptcyproject.org",
-  "email": "info@openbankruptcyproject.org",
-  "taxID": "41-5159631",
-  "nonprofitStatus": "Nonprofit501c3",
-  "description": "The Open Bankruptcy Project is a 501(c)(3) nonprofit providing free tools, research, and consumer guides to help people navigate the federal bankruptcy system. We also conduct and publish empirical research on how the system actually works for consumers and share findings with rule-making bodies, regulators, and the public.",
-  "address": {
-    "@type": "PostalAddress",
-    "streetAddress": "1000 W 100th St",
-    "addressLocality": "Kansas City",
-    "addressRegion": "MO",
-    "postalCode": "64114",
-    "addressCountry": "US"
-  }
-}
-</script>
 </head>
 <body>
 <a class="skip-link" href="#main">Skip to main content</a>
